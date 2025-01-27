@@ -55,6 +55,4 @@ To run the code locally, follow these steps:
 ## Conclusion
 I have successfully completed all the tasks in the challenge, providing insights and building predictive models to help businesses improve their strategies based on data analysis. I look forward to any feedback or further evaluation.
 
----
 
-Make sure to replace `FirstName_LastName` with your actual name and update the repository URL if necessary.
